@@ -1,5 +1,3 @@
-Here’s a detailed **README** file for the **Intelligent Surveillance System (ISS)** project:
-
 ---
 
 # **Intelligent Surveillance System (ISS)**  
