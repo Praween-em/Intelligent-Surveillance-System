@@ -16,7 +16,7 @@ def send_image(bot_token, chat_id, image_path):
         files = {'photo': image_file}
         data = {'chat_id': chat_id}
         
-        response = requests.post(url, data=data, files=files)
+        response = requests.post(url, data=data, files=files, timeout=60)
         
     return response.json()
 
