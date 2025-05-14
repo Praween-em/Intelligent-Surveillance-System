@@ -147,5 +147,3 @@ Intelligent-Surveillance-System/
 This project is licensed under the MIT License. See the `LICENSE` file for details.
 
 ---
-
-Would you like a more detailed installation guide or specific instructions for the hardware setup?
